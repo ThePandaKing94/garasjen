@@ -1,4 +1,4 @@
-# garasjen
+# Garasjen
 
 # Her kan folk legge inn punkter for hva ideen skal bestå av. Føl dere fri for å eksperimentere rundt.
 
